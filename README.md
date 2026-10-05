@@ -1,6 +1,6 @@
 # AIOps Assignment 3 - Spark vs. Ray: The Data Engineering Duel
 
-**Student:** Mohammed Khaja Ghouse Mohiuddin (DA24B015)
+Mohammed Khaja Ghouse Mohiuddin (DA24B015)
 
 The same NYC Taxi cleaning pipeline built in Apache Spark and in Ray Data, run on a 2-worker cluster for each, and benchmarked.
 
