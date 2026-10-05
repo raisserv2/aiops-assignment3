@@ -1,0 +1,7 @@
+data/
+output/
+__pycache__/
+*.pyc
+spark-work/
+logs/
+RUNBOOK.md

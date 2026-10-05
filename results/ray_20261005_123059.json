@@ -1,0 +1,21 @@
+{
+  "total_time_sec": 179.948,
+  "rows_out": 8579096,
+  "input_files": 3,
+  "master": "auto",
+  "peak_cpu_percent": 55.3,
+  "avg_cpu_percent": 21.2,
+  "peak_mem_used_gb": 6.874,
+  "baseline_mem_gb": 4.363,
+  "peak_mem_increase_gb": 2.511,
+  "cpu_count": 24,
+  "total_mem_gb": 15.92,
+  "udf_bench_rows": 8579096,
+  "python_udf_sec": 18.21,
+  "native_expr_sec": 7.548,
+  "arrow_pandas_udf_sec": null,
+  "udf_overhead_sec": 10.662,
+  "framework": "ray",
+  "timestamp": "20261005_123059",
+  "timeline_csv": "results/ray_20261005_123059_timeline.csv"
+}

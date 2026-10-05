@@ -1,0 +1,21 @@
+{
+  "total_time_sec": 50.64,
+  "rows_out": 8579096,
+  "input_files": 3,
+  "master": "spark://localhost:7077",
+  "peak_cpu_percent": 100.0,
+  "avg_cpu_percent": 28.8,
+  "peak_mem_used_gb": 11.512,
+  "baseline_mem_gb": 5.585,
+  "peak_mem_increase_gb": 5.927,
+  "cpu_count": 24,
+  "total_mem_gb": 15.92,
+  "udf_bench_rows": 8579096,
+  "python_udf_sec": 8.03,
+  "arrow_pandas_udf_sec": 4.811,
+  "native_expr_sec": 2.568,
+  "udf_overhead_sec": 5.462,
+  "framework": "spark",
+  "timestamp": "20261005_122505",
+  "timeline_csv": "results/spark_20261005_122505_timeline.csv"
+}
